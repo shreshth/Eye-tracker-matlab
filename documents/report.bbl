@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+
+\bibitem{IR-tracking}
+{Dan Witzner Hansen}, {Riad Hammond}, {Ronald Satria}, and {Jakob Sorensen}.
+\newblock {I}mproved {L}ikelihood {F}unction in {P}article-based {IR} {E}ye
+  {T}racking.
+\newblock IEEE Computer Society Conference on Computer Vision and Pattern
+  Recognition (CVPR), 2005.
+
+\bibitem{starburst}
+{Dongheng Li} and {Derrick J. Parkhurst}.
+\newblock {S}tarburst: {A} robust algorithm for video-based eye tracking.
+\newblock IEEE Vision for Human-Computer Interaction Workshop, Computer Society
+  Conference on Computer Vision and Pattern Recognition (CVPR), 2005.
+
+\bibitem{museum}
+Slavko Milekic.
+\newblock {G}aze-{T}racking and {M}useums: {C}urrent {R}esearch and
+  {I}mplications.
+\newblock Museums and the Web 2010: Proceedings. Toronto: Archives and Museum
+  Informatics, March 2010.
+
+\bibitem{synergetic-tracker}
+{Roberto Valenti}, {Zeynep Yucel}, and {Theo Gevers}.
+\newblock {R}obustifying {E}ye {C}enter {L}ocalization by {H}ead {P}ose {C}ues.
+\newblock IEEE Computer Society Conference on Computer Vision and Pattern
+  Recognition (CVPR), 2009.
+
+\bibitem{SVM-KMToolbox}
+{S. Canu}, {Y. Grandvalet}, {V. Guigue}, and {A. Rakotomamonjy}.
+\newblock {SVM} and {K}ernel {M}ethods {M}atlab {T}oolbox.
+\newblock Perception Systèmes et Information, INSA de Rouen, Rouen, France,
+  2005.
+
+\bibitem{eyewriter}
+{Tempt1}, {Evan Roth}, {Chris Sugrue}, {Zach Lieberman}, {Theo Watson}, and
+  {James Powderly}.
+\newblock {E}yewriter.
+\newblock Free Art and Technology, Open Frameworks, Graffiti Research Lab and
+  the Ebeling Group, 2003.
+
+\bibitem{pccr-naive}
+{Thomas E. Hutchinson}, {K. Preston White, Jr.}, {Worthy N. Martin}, {Kelly C.
+  Reichert}, and {Lisa A. Frey}.
+\newblock {H}uman-{C}omputer {I}nteraction {U}sing {E}ye-{G}aze {I}nput.
+\newblock volume~19 of {\em IEEE Transactions on Systems, Man, and
+  Cybernetics}, 1989.
+
+\bibitem{pccr-dynamic}
+{Zhiwei Zhu} and {Qiang Ji}.
+\newblock {E}ye {G}aze {T}racking {U}nder {N}atural {H}ead {M}ovements.
+\newblock IEEE Computer Society Conference on Computer Vision and Pattern
+  Recognition (CVPR), 2005.
+
+\end{thebibliography}

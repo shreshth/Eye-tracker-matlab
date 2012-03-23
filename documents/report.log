@@ -1,0 +1,375 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.1.15)  17 JAN 2012 23:41
+entering extended mode
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen112
+\extrarowheight=\dimen113
+\NC@list=\toks19
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip48
+\LTright=\skip49
+\LTpre=\skip50
+\LTpost=\skip51
+\LTchunksize=\count99
+\LTcapwidth=\dimen114
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count100
+\LT@rows=\count101
+\c@LT@tables=\count102
+\c@LT@chunks=\count103
+\LT@p@ftn=\toks20
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count104
+)))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count105
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box32
+\rot@mess@toks=\toks22
+)
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count106
+\mult@box=\box33
+\multicol@leftmargin=\dimen117
+\c@unbalance=\count107
+\c@collectmore=\count108
+\doublecol@number=\count109
+\multicoltolerance=\count110
+\multicolpretolerance=\count111
+\full@width=\dimen118
+\page@free=\dimen119
+\premulticols=\dimen120
+\postmulticols=\dimen121
+\multicolsep=\skip54
+\multicolbaselineskip=\skip55
+\partial@page=\box34
+\last@line=\box35
+\mult@rightbox=\box36
+\mult@grightbox=\box37
+\mult@gfirstbox=\box38
+\mult@firstbox=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\c@columnbadness=\count112
+\c@finalcolumnbadness=\count113
+\last@try=\dimen122
+\multicolovershoot=\dimen123
+\multicolundershoot=\dimen124
+\mult@nat@firstbox=\box57
+\colbreak@box=\box58
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen125
+\scratchbox=\box59
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen126
+\MPnumerator=\count118
+\everyMPtoPDFconversion=\toks24
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+<algo.png, id=16, 1147.81764pt x 938.09294pt>
+File: algo.png Graphic file (type png)
+ <use algo.png> [4 <./algo.png (PNG copy)>] <segmentEyes.png, id=20, 449.5194pt
+ x 337.26pt>
+File: segmentEyes.png Graphic file (type png)
+
+<use segmentEyes.png> <eigenValueVariance.png, id=21, 562.2606pt x 320.8788pt>
+File: eigenValueVariance.png Graphic file (type png)
+
+<use eigenValueVariance.png>
+Overfull \hbox (54.65007pt too wide) in paragraph at lines 253--254
+[] 
+ []
+
+<eigenValueVariance2.png, id=22, 448.67625pt x 114.4275pt>
+File: eigenValueVariance2.png Graphic file (type png)
+
+<use eigenValueVariance2.png>
+Overfull \hbox (72.27489pt too wide) in paragraph at lines 255--256
+[][] 
+ []
+
+[5 <./segmentEyes.png (PNG copy)> <./eigenValueVariance.png (PNG copy)> <./eige
+nValueVariance2.png (PNG copy)>] <testImg.png, id=26, 642.2394pt x 561.7788pt>
+File: testImg.png Graphic file (type png)
+
+<use testImg.png> <matchImg.png, id=27, 642.2394pt x 561.7788pt>
+File: matchImg.png Graphic file (type png)
+
+<use matchImg.png> <viewingDir.png, id=28, 773.89125pt x 156.585pt>
+File: viewingDir.png Graphic file (type png)
+
+<use viewingDir.png>
+Overfull \hbox (13.94946pt too wide) in paragraph at lines 285--286
+ [][] 
+ []
+
+[6 <./testImg.png (PNG copy)> <./matchImg.png (PNG copy)> <./viewingDir.png (PN
+G copy)>] <testImg2.png, id=32, 642.2394pt x 561.7788pt>
+File: testImg2.png Graphic file (type png)
+ <use testImg2.png>
+<matchImg2.png, id=33, 642.2394pt x 561.7788pt>
+File: matchImg2.png Graphic file (type png)
+ <use matchImg2.png>
+<viewingDir2.png, id=34, 767.86874pt x 159.59625pt>
+File: viewingDir2.png Graphic file (type png)
+ <use viewingDir2.png>
+Overfull \hbox (13.94629pt too wide) in paragraph at lines 309--310
+ [][] 
+ []
+
+[7 <./testImg2.png (PNG copy)> <./matchImg2.png (PNG copy)> <./viewingDir2.png 
+(PNG copy)>] <testImg3.png, id=39, 642.2394pt x 561.7788pt>
+File: testImg3.png Graphic file (type png)
+ <use testImg3.png>
+<matchImg3.png, id=40, 642.2394pt x 561.7788pt>
+File: matchImg3.png Graphic file (type png)
+ <use matchImg3.png>
+<viewingDir3.png, id=41, 773.89125pt x 158.5925pt>
+File: viewingDir3.png Graphic file (type png)
+ <use viewingDir3.png>
+Overfull \hbox (13.94946pt too wide) in paragraph at lines 333--334
+ [][] 
+ []
+
+[8 <./testImg3.png (PNG copy)> <./matchImg3.png (PNG copy)> <./viewingDir3.png 
+(PNG copy)>] <eigenEyes.png, id=45, 449.5194pt x 337.26pt>
+File: eigenEyes.png Graphic file (type png)
+ <use eigenEyes.png>
+<reconEye.png, id=46, 481.8pt x 401.8212pt>
+File: reconEye.png Graphic file (type png)
+ <use reconEye.png>
+File: testImg3.png Graphic file (type png)
+
+<use testImg3.png> [9 <./eigenEyes.png (PNG copy)> <./reconEye.png (PNG copy)>]
+<viewingDir4.png, id=50, 761.84625pt x 161.60374pt>
+File: viewingDir4.png Graphic file (type png)
+ <use viewingDir4.png>
+Overfull \hbox (13.93063pt too wide) in paragraph at lines 379--380
+ [][] 
+ []
+
+[10 <./viewingDir4.png (PNG copy)>]
+File: testImg3.png Graphic file (type png)
+ <use testImg3.png>
+<viewingDir5.png, id=54, 728.7225pt x 160.6pt>
+File: viewingDir5.png Graphic file (type png)
+ <use viewingDir5.png>
+Overfull \hbox (13.93872pt too wide) in paragraph at lines 404--405
+ [][] 
+ []
+
+[11 <./viewingDir5.png (PNG copy)>]
+File: testImg3.png Graphic file (type png)
+ <use testImg3.png>
+<viewingDir6.png, id=58, 767.86874pt x 159.59625pt>
+File: viewingDir6.png Graphic file (type png)
+ <use viewingDir6.png>
+Overfull \hbox (13.94629pt too wide) in paragraph at lines 431--432
+ [][] 
+ []
+
+[12 <./viewingDir6.png (PNG copy)>] [13] (./report.bbl
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+) [14] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2265 strings out of 495061
+ 27839 string characters out of 1182621
+ 88145 words of memory out of 3000000
+ 5417 multiletter control sequences out of 15000+50000
+ 8704 words of font info for 33 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 27i,7n,24p,223b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (14 pages, 1121081 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+

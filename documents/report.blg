@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: report.aux
+The style file: plain.bst
+Database file #1: report-bib.bib.bib
+Warning--string name "november/december" is undefined
+--line 46 of file report-bib.bib.bib
+Warning--empty booktitle in IR-tracking
+Warning--empty booktitle in starburst
+Warning--empty booktitle in museum
+Warning--empty booktitle in synergetic-tracker
+Warning--empty booktitle in pccr-naive
+Warning--empty booktitle in pccr-dynamic
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            537 strings with 5608 characters,
+and the built_in function-call counts, 2482 in all, are:
+= -- 210
+> -- 158
+< -- 1
++ -- 62
+- -- 54
+* -- 158
+:= -- 430
+add.period$ -- 25
+call.type$ -- 8
+change.case$ -- 51
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 93
+empty$ -- 202
+format.name$ -- 54
+if$ -- 509
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 6
+newline$ -- 43
+num.names$ -- 16
+pop$ -- 78
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 61
+stack$ -- 0
+substring$ -- 40
+swap$ -- 10
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 32
+warning$ -- 6
+while$ -- 16
+width$ -- 9
+write$ -- 83
+(There were 7 warnings)
